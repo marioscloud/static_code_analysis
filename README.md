@@ -18,14 +18,16 @@ Follow these steps to get started with the lab:
 ### 1. Install Pylint Package
 
 Open your terminal and run the following command to install Pylint:
-```bash
-pip install pylint
+ ```bash
+   pip install pylint
+ ```
 
 ### 2. Run Static Code Analysis on a Python Program
 
 Use Pylint to analyze your Python code. For example, to analyze a file named sample1.py, run:
 ```bash
-pylint static_code.py
+   pylint static_code.py
+ ```
 
 3. Check the Compliance Score of a Python Program
 
