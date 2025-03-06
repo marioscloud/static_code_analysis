@@ -38,6 +38,8 @@ Pylint will provide a compliance score based on the analysis. Review the output 
 Based on the Pylint output, fix common mistakes in your code to improve the compliance score. This may include adding docstrings, following naming conventions, and ensuring proper formatting.
 
 Additional Resources
--Pylint documentation
+- [Pylint Documentation](https://pylint.readthedocs.io/en/stable/)
+- [Python Documentation](https://docs.python.org/3/)
 
+I hope this README.md content meets your needs! If there are any specific details you want to add or modify, just let me know. 😊
 
