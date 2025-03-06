@@ -29,11 +29,11 @@ Use Pylint to analyze your Python code. For example, to analyze a file named sam
    pylint static_code.py
  ```
 
-3. Check the Compliance Score of a Python Program
+### 3. Check the Compliance Score of a Python Program
 
 Pylint will provide a compliance score based on the analysis. Review the output to identify areas that need improvement.
 
-4. Fix Common Mistakes and Improve the Compliance Score
+### 4. Fix Common Mistakes and Improve the Compliance Score
 
 Based on the Pylint output, fix common mistakes in your code to improve the compliance score. This may include adding docstrings, following naming conventions, and ensuring proper formatting.
 
